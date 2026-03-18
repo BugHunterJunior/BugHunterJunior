@@ -1,16 +1,68 @@
-## Hi there 👋
+# 🕶️ Prathmesh | BugHunterJunior
 
-<!--
-**BugHunterJunior/BugHunterJunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+> whoami
+Aspiring Ethical Hacker
 
-Here are some ideas to get you started:
+> skills --list
+Linux | Networking | Web Security | Enumeration | Exploitation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> status
+Learning. Breaking. Securing.
+```
+
+---
+
+## ⚡ About Me
+
+* 🎓 BCA Student
+* 🛡️ Focused on Cyber Security & Ethical Hacking
+* 🔍 Hands-on with real-world labs (TryHackMe)
+* ⚙️ Exploring systems, networks & vulnerabilities
+
+---
+
+## 🧰 Toolkit
+
+```bash
+nmap     netcat     wireshark  
+ssh      linux      burpsuite (learning)
+```
+
+---
+
+## 🧪 Projects
+
+```bash
+[+] Keylogger (JSON logs)
+[+] Text Encryption Tool
+[+] Secure Chat App (WIP)
+[+] Flask Todo App
+```
+
+---
+
+## 📡 Current Mission
+
+```bash
+- Web Exploitation
+- Privilege Escalation
+- Advanced Networking
+```
+
+---
+
+## 🌐 Connect
+
+```bash
+LinkedIn : https://www.linkedin.com/in/prathmesh-kshirsagar-tech/
+GitHub   : https://github.com/BugHunterJunior
+```
+
+---
+
+## 🧠 Quote
+
+```bash
+"Understand the system. Then break it."
+```
