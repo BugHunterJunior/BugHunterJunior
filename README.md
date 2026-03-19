@@ -54,10 +54,8 @@ ssh      linux      burpsuite (learning)
 
 ## 🌐 Connect
 
-```bash
-LinkedIn : https://www.linkedin.com/in/prathmesh-kshirsagar-tech/
-GitHub   : https://github.com/BugHunterJunior
-```
+- **GitHub:** [@BugHunterJunior](https://github.com/BugHunterJunior)
+- **LinkedIn:** [Prathmesh Kshirsagar](https://www.linkedin.com/in/prathmesh-kshirsagar-tech/)
 
 ---
 
