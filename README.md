@@ -4,7 +4,7 @@
 ---
 
 ### 🟢 Status: Learning. Breaking. Securing.
-I am a **BCA Student** focused on Cyber Security and Ethical Hacking. I spend my time in real-world labs like TryHackMe, exploring systems, networks, and vulnerabilities to build a more secure digital world.
+BCA Student specializing in ethical hacking and security automation. Leveraging Python and Linux environments to analyze networks, automate enumeration, and understand modern attack vectors.
 
 ---
 
