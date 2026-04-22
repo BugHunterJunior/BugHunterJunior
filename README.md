@@ -1,5 +1,5 @@
 # 👨‍💻 BugHunterJunior
-> **"Understand the system. Then break it."**
+> **"Understand the system. Then break it."** 
 
 ---
 
@@ -56,8 +56,11 @@ Full-stack web application with CRUD operations for task management and user aut
 ---
 
 ## 🤝 Connect With Me
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BugHunterJunior) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prathmesh-kshirsagar) [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kprathmesh)
 
-<a href="https://github.com/BugHunterJunior" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="BugHunterJunior" height="30" width="40" /></a>&nbsp;<a href="https://linkedin.com/in/prathmesh-kshirsagar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Prathmesh Kshirsagar" height="30" width="40" /></a>
+</div>
 
 <div align="center">
 
